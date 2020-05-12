@@ -1,0 +1,10 @@
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\BusinessLogic\bin\Debug\Client.dll
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\BusinessLogic\bin\Debug\Client.pdb
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\BusinessLogic\obj\Debug\BusinessLogic.pdb

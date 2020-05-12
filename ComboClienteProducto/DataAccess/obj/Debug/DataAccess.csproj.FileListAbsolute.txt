@@ -1,0 +1,8 @@
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\DataAccess\bin\Debug\Client.dll
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\DataAccess\bin\Debug\Client.pdb
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\DataAccess\obj\Debug\DataAccess.pdb

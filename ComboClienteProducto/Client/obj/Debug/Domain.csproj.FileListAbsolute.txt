@@ -1,0 +1,5 @@
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\Client\bin\Debug\Client.dll
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\Client\bin\Debug\Client.pdb
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\Client\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\Client\obj\Debug\Client.dll
+C:\Users\Gerniroz\source\repos\ComboClienteProducto\ComboClienteProducto\Client\obj\Debug\Client.pdb
